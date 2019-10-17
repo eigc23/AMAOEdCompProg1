@@ -1,5 +1,5 @@
 //
-//  main.mm
+//  divide.mm
 //  divide
 //
 //  Created by Eira Isabel Cuartero on 10/17/19.
